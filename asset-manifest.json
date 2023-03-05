@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://md-asharuddin-90.github.io/csb-fhui9d/static/css/main.df723032.chunk.css",
+    "main.js": "https://md-asharuddin-90.github.io/csb-fhui9d/static/js/main.98005140.chunk.js",
+    "main.js.map": "https://md-asharuddin-90.github.io/csb-fhui9d/static/js/main.98005140.chunk.js.map",
+    "runtime-main.js": "https://md-asharuddin-90.github.io/csb-fhui9d/static/js/runtime-main.4aaa3258.js",
+    "runtime-main.js.map": "https://md-asharuddin-90.github.io/csb-fhui9d/static/js/runtime-main.4aaa3258.js.map",
+    "static/js/2.f71ddd60.chunk.js": "https://md-asharuddin-90.github.io/csb-fhui9d/static/js/2.f71ddd60.chunk.js",
+    "static/js/2.f71ddd60.chunk.js.map": "https://md-asharuddin-90.github.io/csb-fhui9d/static/js/2.f71ddd60.chunk.js.map",
+    "index.html": "https://md-asharuddin-90.github.io/csb-fhui9d/index.html",
+    "static/css/main.df723032.chunk.css.map": "https://md-asharuddin-90.github.io/csb-fhui9d/static/css/main.df723032.chunk.css.map",
+    "static/js/2.f71ddd60.chunk.js.LICENSE.txt": "https://md-asharuddin-90.github.io/csb-fhui9d/static/js/2.f71ddd60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4aaa3258.js",
+    "static/js/2.f71ddd60.chunk.js",
+    "static/css/main.df723032.chunk.css",
+    "static/js/main.98005140.chunk.js"
+  ]
+}

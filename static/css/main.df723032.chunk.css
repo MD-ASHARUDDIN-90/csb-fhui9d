@@ -1,0 +1,2 @@
+.App{font-family:sans-serif;text-align:center}*{background-color:#f08080;color:#00f}body{display:flex;justify-content:center}.main{text-align:center;flex-direction:column}.App,.main{display:flex;justify-content:center;align-items:center}.App{width:250px;flex-wrap:wrap}button{width:70px;height:70px;background-color:gold;color:#fff}button:disabled{background-color:red}button:active{background-color:green}
+/*# sourceMappingURL=main.df723032.chunk.css.map */
